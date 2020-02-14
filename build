@@ -7,7 +7,9 @@ else
 	cd ./data-sources/bno
 	./get-bno
 	./process-bno > ./data/sample.csv
+	cp ./data/sample.csv ./data/`date +%Y%m%d-%H%M%S`-bno-2019ncov-data.csv
 	../../visualization/bno-world-svg/bno-world-csv2svg ./data/sample.csv
+	cp ./sample.svg ./data/`date +%Y%m%d-%H%M%S`-bno-2019ncov-data.svg
 fi
 
 # added by AC: BEGIN
