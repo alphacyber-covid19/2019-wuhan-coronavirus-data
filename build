@@ -10,11 +10,13 @@ else
 	../../visualization/bno-world-svg/bno-world-csv2svg ./data/sample.csv
 fi
 
+# added by AC: BEGIN
 # svg
 DESTINATIONFILE_LATEST=data/latest.svg
 SOURCEFILE=`ls data/20*|grep -e '\.svg$'|sort -nr|head -n 1|sed -e 's/\n//g'`
 rm "$DESTINATIONFILE_LATEST" 2> /dev/null
-ln -s "`basename $SOURCEFILE`" "$DESTINATIONFILE_LATEST"
+#ln -s "`basename $SOURCEFILE`" "$DESTINATIONFILE_LATEST"
+cp "`basename $SOURCEFILE`" "$DESTINATIONFILE_LATEST"
 chown -R www-data:www-data "$DESTINATIONFILE_LATEST"
 # csv
 DESTINATIONFILE_PRELATEST=data/pre-latest.csv
@@ -22,5 +24,7 @@ DESTINATIONFILE_LATEST=data/latest.csv
 SOURCEFILE=`ls data/20*|grep -e '\.csv$'|sort -nr|head -n 1|sed -e 's/\n//g'`
 rm "$DESTINATIONFILE_PRELATEST" 2> /dev/null
 mv "$DESTINATIONFILE_LATEST" "$DESTINATIONFILE_PRELATEST" 2> /dev/null
-ln -s "`basename $SOURCEFILE`" "$DESTINATIONFILE_LATEST"
+#ln -s "`basename $SOURCEFILE`" "$DESTINATIONFILE_LATEST"
+cp "`basename $SOURCEFILE`" "$DESTINATIONFILE_LATEST"
 chown -R www-data:www-data "$DESTINATIONFILE_LATEST"
+# added by AC: END
