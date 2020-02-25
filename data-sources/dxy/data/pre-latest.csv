@@ -1,5 +1,5 @@
 # source: DXY @ https://3g.dxy.cn/newh5/view/pneumonia
-# update: 2020-02-24 19:15:44 CST
+# update: 2020-02-24 23:02:16 CST
 # place|confirmed_cases|deaths|notes|sources
 Hubei|64287|2495||
 Guangdong|1345|6||
@@ -16,16 +16,16 @@ Beijing|399|4||
 Jiangsu|631|0||
 Guangxi|251|2||
 Fujian|293|1||
-Shaanxi|245|1||
-Hebei|311|6||
 Shanghai|335|3|未知治愈数据统一归属上海市公卫临床中心，暂无具体分区|
+Hebei|311|6||
+Shaanxi|245|1||
 Hong Kong|79|2||
 Hainan|168|5||
 Tianjin|135|3||
-Xinjiang|76|2||
 Yunnan|174|2||
-Shanxi|132|0||
+Xinjiang|76|2||
 Guizhou|146|2||
+Shanxi|132|0||
 Inner Mongolia|75|0||
 Liaoning|121|1||
 Jilin|93|1||
