@@ -16,9 +16,9 @@ Shown here in GIF format. There is a better (smaller/higher resolution) webm for
 
 ## Sample visualization
 
-![image](data-sources/dxy/data/20200213-133757-dxy-2019ncov-data.svg)
+![image](data-sources/dxy/data/latest.svg)
 
-![image](data-sources/bno/data/20200204-205200-bno-2019ncov-data.svg)
+![image](data-sources/bno/data/latest.svg)
 
 Generates static SVGs. 
 
