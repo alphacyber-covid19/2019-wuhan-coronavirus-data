@@ -1,7 +1,7 @@
 # source: BNO @ https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/
-# update: 2020-02-26 17:30:00 ET
+# update: 2020-02-27 17:35:00 ET
 # place|confirmed_cases|deaths|notes|sources
-Hubei province <br>(includes Wuhan)|65,187|2,615|8,326 serious|http://www.nhc.gov.cn/yjb/s7860/202002/741ce06130284a77bfbf699483c0fb60.shtml
+Hubei province <br>(includes Wuhan)|65,596|2,641|7,984 serious|http://www.nhc.gov.cn/yjb/s7860/202002/369fb309eded45abaf10645a9c8ceb40.shtml
 Guangdong|1,333|5|35 serious, 27 critical|http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_2903465.html
 Henan|1,267|19|24 serious, 21 critical|https://m.weibo.cn/detail/4474319956743791
 Zhejiang|1,203|1|31 serious, 18 critical|https://www.zjwjw.gov.cn/art/2020/2/21/art_1202101_41958074.html
@@ -17,54 +17,58 @@ Beijing|396|4|19 critical|http://wjw.beijing.gov.cn/xwzx_20031/wnxw/202002/t2020
 Shanghai|334|2|11 serious, 3 critical|https://m.weibo.cn/detail/4474399522779832
 Tianjin|132|3||https://m.weibo.cn/detail/4474397756828392
 Other regions|2,256|23||http://www.nhc.gov.cn/yjb/s7860/202002/553ff43ca29d4fe88f3837d49d6b6ef1.shtml
-Undisclosed|72|7||http://www.nhc.gov.cn/yjb/s7860/202002/67e6c59a84bd4f07b6ca4a4c5ffabb79.shtml
-CHINA TOTAL|78,064|2,715|8,552 serious, 29,745 recovered, 2,491 suspected|
+Undisclosed|72|7||http://www.nhc.gov.cn/yjb/s7860/202002/369fb309eded45abaf10645a9c8ceb40.shtml
+CHINA TOTAL|78,514|2,744|8,346 serious, 32,495 recovered, 2,358 suspected|
 Diamond Princess|705|4|36 serious, 10 recovered|https://www3.nhk.or.jp/news/html/20200225/k10012299951000.html
-South Korea|1,261|12|13 serious, 5 critical, 24 recovered|http://ncov.mohw.go.kr/tcmBoardView.do?brdId=&amp;brdGubun=&amp;dataGubun=&amp;ncvContSeq=353165&amp;contSeq=353165&amp;board_id=&amp;gubun=ALL
-Italy|453|12|19 serious, 3 recovered |https://www.repubblica.it/cronaca/2020/02/22/news/coronavirus_in_italia_aggiornamento_ora_per_ora-249241616/
-Japan|172*|3|13 serious, 23 recovered|https://headlines.yahoo.co.jp/hl?a=20200226-00000011-hbcv-hok
-Iran|139|19||https://twitter.com/FarsNews_Agency/status/1232599960786436097
-Singapore|93|0|7 critical, 58 recovered|https://www.moh.gov.sg/news-highlights/details/five-more-cases-discharged-one-new-case-of-covid-19-infection-confirmed
-Hong Kong|89|2|4 critical, 2 serious, 18 recovered|https://news.rthk.hk/rthk/ch/component/k2/1510983-20200226.htm
-United States|60|0|6 recovered|https://edition.cnn.com/asia/live-news/coronavirus-outbreak-02-26-20-intl-hnk/h_6c3eaf66897d90acda95d9cc89434d29
+South Korea|1,766|13|13 serious, 5 critical, 24 recovered|https://twitter.com/Rover829/status/1232846981489258496
+Italy|655|17|19 serious, 3 recovered |https://www.repubblica.it/cronaca/2020/02/22/news/coronavirus_in_italia_aggiornamento_ora_per_ora-249241616/
+Japan|207*|4|13 serious, 32 recovered|https://www3.nhk.or.jp/news/html/20200227/k10012303921000.html?utm_int=news_contents_news-main_005
+Iran|245|26||https://twitter.com/FarsNews_Agency/status/1232599960786436097
+Singapore|96|0|8 critical, 66 recovered|https://www.moh.gov.sg/news-highlights/details/four-more-cases-discharged-three-new-cases-of-covid-19-infection-confirmed
+Hong Kong|92|2|4 critical, 2 serious, 18 recovered|https://news.rthk.hk/rthk/ch/component/k2/1510983-20200226.htm
+United States|60|0|6 recovered|https://www.washingtonpost.com/world/asia_pacific/coronavirus-china-live-updates/2020/02/26/f889693a-580e-11ea-9000-f3cffee23036_story.html
 Thailand|40|0|2 serious, 15 recovered|https://www.bangkokpost.com/thailand/general/1866094/thailand-has-3-new-coronavirus-cases-for-total-of-40-ministry
 Taiwan|32|1|5 recovered|https://www.cdc.gov.tw/Bulletin/Detail/ra20bYUzTRZoZGSg9LbpeA?typeid=9
 Malaysia|22|0|17 recovered|https://twitter.com/KKMPutrajaya/status/1230401994126319617
 Australia|23|0|15 recovered|https://www.canberratimes.com.au/story/6650516/eighth-case-of-coronavirus-among-australians-from-diamond-princess/?src=rss
-Germany|27|0|1 critical, 15 recovered|https://www1.wdr.de/nachrichten/corona-infektionen-nrw-100.html
+Germany|45|0|2 critical, 16 recovered|https://www.stmgp.bayern.de/presse/bayerisches-gesundheitsministerium-ein-neuer-coronavirus-fall-in-bayern/
 Vietnam|16|0|16 recovered|https://twitter.com/VNGovtPortal/status/1231839072466825216
-UAE|13|0|2 serious, 3 recovered|https://www.facebook.com/mohapuae/posts/3008178809232874
-United Kingdom|13|0|8 recovered|https://www.gov.uk/government/news/cmo-for-england-announces-four-new-cases-of-novel-coronavirus
-France|18|2|1 serious, 11 recovered|https://www.bfmtv.com/sante/coronavirus-un-nouveau-cas-confirme-en-france-chez-la-femme-d-un-patient-hospitalise-a-annecy-1864859.html
-Canada|12|0|3 recovered|https://infotel.ca/newsitem/cda-coronavirus-bc/cp188918634
+UAE|19|0|2 serious, 5 recovered|https://www.wam.ae/en/details/1395302827338
+United Kingdom|16|0|8 recovered|https://www.bbc.com/news/uk-northern-ireland-51665704
+France|38|2|1 serious, 11 recovered|https://www.bfmtv.com/sante/direct-coronavirus-covid-19-france-mort-cas-creil-oise-paris-amiens-strasbourg-italie-chine-symptomes-virus-maladie-epidemie
+Canada|13|0|3 recovered|https://news.ontario.ca/mohltc/en/2020/02/ontario-confirms-positive-case-of-covid-19.html
 Macau|10|0|6 recovered|https://news.gov.mo/detail/zh-hant/N20BYoPaz7;jsessionid=1003B47FC809322765895640397BFB0A.app01?0
 Bahrain|33|0||https://twitter.com/MOH_Bahrain/status/1232763295846846467
-Kuwait|26|0||https://twitter.com/KUWAIT_MOH/status/1232670985272340480
-Iraq|5|0||https://twitter.com/AlArabiya_Brk/status/1232235184705167360
+Kuwait|43|0||https://twitter.com/KUWAIT_MOH/status/1232670985272340480
+Iraq|7|0||https://www.rudaw.net/arabic/kurdistan/270220207
 Philippines|3|1|2 recovered|https://twitter.com/mohapuae/status/1226552040559718400
 India|3|0|3 recovered|https://twitter.com/drthomasisaac/status/1228129065560768513
 Russia|2|0|2 recovered|https://www.channelnewsasia.com/news/world/russia-discharges-second-china-coronavirus-patient-12426458
-Spain|13|0|2 recovered|https://twitter.com/SanidadGobCan/status/1232762453563527169
-Oman|4|0||https://twitter.com/OmaniMOH/status/1232304096750850058
+Spain|23|0|1 serious, 2 recovered|https://elpais.com/sociedad/2020/02/27/actualidad/1582788331_279244.html
+Oman|6|0||https://twitter.com/OmaniMOH/status/1233080668449624069
 Nepal|1|0|1 recovered|https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30067-0/fulltext
 Cambodia|1|0|1 recovered|https://twitter.com/VOD_English/status/1221769368180121603
 Sri Lanka|1|0|1 recovered|https://www.reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF
 Finland|2|0|1 recovered|https://www.hs.fi/kaupunki/art-2000006420345.html
-Sweden|2|0||https://www.expressen.se/gt/en-person-i-goteborg-har-testats-positivt-for-corona/
+Sweden|7|0||https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/februari/inbjudan-till-presstraff-ytterligare-fall-av-covid-19-i-flera-regioner2/
 Belgium|1|0|1 recovered|https://m.hln.be/nieuws/binnenland/live-enige-besmette-belg-mag-ziekenhuis-verlaten-eerste-coronadode-buiten-azie-chinese-toerist-80-in-frankrijk-overleden~a4e2bfa0/
 Egypt|1|0|1 recovered|https://m.facebook.com/story.php?story_fbid=1101972226806612&amp;id=352015718468937&amp;__tn__=-R
-Israel|2|0||https://www.jpost.com/HEALTH-SCIENCE/Netanyahu-International-coronavirus-quarantine-list-may-grow-618492
-Lebanon|2|0||https://www.mtv.com.lb/News/%D9%85%D9%80%D9%80%D8%AD%D9%80%D9%80%D9%84%D9%80%D9%80%D9%8A%D9%80%D9%80%D8%A7%D8%AA/1025185/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D8%B5%D8%AD%D8%A9_%D8%AA%D8%B9%D9%84%D9%86_%D8%B9%D9%86_%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9_%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_%D8%A8%D9%80%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7
+Israel|3|0||https://www.jpost.com/HEALTH-SCIENCE/Netanyahu-International-coronavirus-quarantine-list-may-grow-618492
+Lebanon|3|0||https://www.facebook.com/1512466882396311/posts/2256178921358433
 Afghanistan|1|0||http://www.1tvnews.af/en/news/afghanistan/41339
-Austria|2|0||https://twitter.com/Rover829/status/1232271570707472384
+Austria|3|0||https://twitter.com/Rover829/status/1232271570707472384
 Croatia|3|0||https://www.vecernji.hr/vijesti/cekaju-se-nalazi-djevojke-zarazenog-beros-i-ona-pokazuje-znakove-1381776
-Switzerland|1|0||https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-78233.html
+Switzerland|8|0||https://www.nzz.ch/schweiz/siebter-coronavirus-fall-in-der-schweiz-ld.1542664
 Algeria|1|0||https://news.trust.org/item/20200225214652-ww227
 Brazil|1|0||https://news.trust.org/item/20200226095635-eztvt
-Greece|1|0||https://www.cnn.gr/news/ellada/story/209034/o-koronaios-eftase-stin-ellada-proto-epivevaiomeno-kroysma-sti-thessaloniki?utm_medium=Social&amp;utm_source=Twitter#Echobox=1582715020
+Greece|3|0||https://www.cnn.gr/news/ellada/story/209034/o-koronaios-eftase-stin-ellada-proto-epivevaiomeno-kroysma-sti-thessaloniki?utm_medium=Social&amp;utm_source=Twitter#Echobox=1582715020
 Pakistan|2|0||https://twitter.com/zfrmrza/status/1232707169163841537
 North Macedonia|1|0||https://makfax.com.mk/makedonija/прв-случај-на-коронавирус-во-земјава/
 Georgia|1|0||http://www.ghn.ge/news/240287-sakartveloshi-koronavirusis-pirveli-shemtkhveva-dafiksirda
-Norway|1|0||https://www.fhi.no/nyheter/2020/en-person-har-testet-positivt-pa-koronavirus/
+Norway|4|0||https://www.fhi.no/nyheter/2020/tre-nye-personer-har-testet-positivt-pa-koronavirus/
 Romania|1|0||https://www.antena3.ro/actualitate/surse-primul-roman-confirmat-cu-coronavirus-560472.html
-CHINA TOTAL|3,316|56|105 serious/critical|
+Denmark|1|0||https://www.sst.dk/da/nyheder/2020/foerste-dansker-med-covid-19-har-det-godt_-og-er-i-hjemmeisolation
+Estonia|1|0||https://www.err.ee/1057192/eestis-leiti-esimene-koroonaviirusesse-nakatunu
+Netherlands|1|0||https://www.rivm.nl/nieuws/patient-met-nieuw-coronavirus-in-nederland
+San Marino|1|0||https://www.sanmarinortv.sm/news/comunicati-c9/gruppo-coordinamento-emergenze-sanitarie-aggiornamento-del-27-febbraio-2020-a184304
+CHINA TOTAL|4,275|70|106 serious/critical|
